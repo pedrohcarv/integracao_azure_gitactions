@@ -1,0 +1,9 @@
+{
+	"name": "pipe-basico123456789",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d9f1711-dcc5-4412-a0d9-b15f9b3aec1c",
+		"tenantId": "39157b16-ce23-41bc-8a7d-86192f0e519a"
+	}
+}
